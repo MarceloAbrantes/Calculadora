@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "test": "jest",
+    "test:unit": "jest",
+    "build": "tsc"
+},
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "@types/node": "^20.12.8",
