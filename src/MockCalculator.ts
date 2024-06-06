@@ -1,4 +1,4 @@
-import { Calculator } from './Interface_Calculator';
+import { Calculator } from './Interface';
 
 // Classe de teste mocks para a calculadora
 export class MockCalculator implements Calculator {
